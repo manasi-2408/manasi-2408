@@ -44,36 +44,6 @@ I’m a **Data Analyst & Frontend Developer** who turns raw data into **clear in
 
 ---
 
-## 📌 Featured Work
-
-### ⭐ Student Performance Analysis
-Analyzed academic performance data to identify patterns affecting student scores and presented insights through a Power BI dashboard.
-
-**Tech:** Python, Pandas, Power BI
-
----
-
-### 📈 Cosmetics Consumer Analysis
-Performed detailed EDA on cosmetics purchase data to uncover trends and consumer behavior.
-
-**Tech:** Python, Pandas, NumPy, Seaborn
-
----
-
-### 🎨 Netflix India Landing Page Clone
-Recreated the Netflix India landing page with a focus on responsive layout and clean structure using HTML and CSS.
-
-**Tech:** HTML5, CSS3, Flexbox, Grid
-
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manasi.bhutra@somaiya.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasi-bhutra-b12434374/)
-
----
-
 ## 🧠 Learning & Goals
 
 - Strengthening **data storytelling and dashboard design**
