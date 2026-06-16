@@ -1,79 +1,114 @@
-<!-- Header -->
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Manasi%20Bhutra&fontSize=65&animation=twinkling&fontAlignY=45" alt="Manasi Bhutra Header" />
+</p>
 
-```
-$ whoami
-```
+<h3 align="center">
+  <samp>Hey there! I'm <b>Manasi Bhutra</b> 👋</samp>
+</h3>
 
-# Manasi Bhutra
+<p align="center">
+  <samp><strong>Data Analyst</strong> &amp; <strong>Frontend Developer</strong> | Turning messy data into clear insights &amp; ideas into beautiful interfaces</samp>
+</p>
 
-**Data Analyst · Frontend Developer**
-
-*I find patterns in messy data and ship clean interfaces.*
-*Good analysis makes the next decision obvious.*
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](https://github.com/manasi-2408)
-[![SQL](https://img.shields.io/badge/SQL-E25050?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/manasi-2408)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/manasi-2408)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/manasi-2408)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/manasi-2408)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=36BCF7&center=true&vCenter=true&width=720&lines=Data+Storyteller;Power+BI+Dashboards;Responsive+Web+Design;Python+Analytics;Always+learning" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📊 Featured Projects — Data & Analytics
+## 📊 Featured Data & Analytics Projects
 
-| Project | What I built | Stack |
-|---|---|---|
-| 💄 **[Makeup Sales Analysis](https://github.com/manasi-2408/Cosmetics_Analysis)** | Sales trends, product performance & customer segments. Power BI dashboard with DAX-driven KPIs built for business decisions, not just exploration. | Python · Pandas · Power BI · EDA |
-| 🔥 **Developer Burnout Analysis** | Burnout signals in developer survey data — work hours, satisfaction scores, recovery patterns. Surfaces what the averages hide. | Python · Seaborn · Matplotlib · EDA |
-| 📱 **Smartphone Market Analysis** | Benchmarked specs, pricing bands, and brand positioning across hundreds of models. Cleaned & structured for clear comparative insight. | Python · NumPy · Pandas · Seaborn |
-| 👥 **[Employee Performance Analysis](https://github.com/manasi-2408/Employee_Analysis)** | Retention risk, compensation alignment & departmental trends. Dashboard built for HR decision-makers, not data people. | Python · Power BI · DAX · HR Analytics |
-
----
-
-## 💻 Featured Projects — Frontend
-
-| Project | What I built | Stack |
-|---|---|---|
-| 🎬 **[Netflix India Clone](https://github.com/manasi-2408/Netflix-Clone)** | Pixel-precise landing page clone with full responsiveness. Exercises CSS Grid, Flexbox, and real-world layout patterns. | HTML5 · CSS3 · Grid · Flexbox |
-| 📸 **[Instagram Login Clone](https://github.com/manasi-2408/Instagram-Clone)** | Dark-theme Instagram login page in pure HTML & CSS. Layout accuracy, form styling, visual consistency — no JavaScript needed. | HTML5 · CSS3 · Dark Theme |
+| Project                          | Description                                                                 | Tech Stack                          |
+|----------------------------------|-----------------------------------------------------------------------------|-------------------------------------|
+| **💄 Makeup Sales Analysis**     | Sales trends, product performance & customer segmentation with interactive dashboard | Python, Pandas, Power BI, DAX, EDA |
+| **🔥 Developer Burnout Analysis**| Burnout signals from survey data — hours, satisfaction & recovery patterns   | Python, Seaborn, Matplotlib        |
+| **📱 Smartphone Market Analysis**| Specs, pricing bands & brand positioning across models                      | Python, NumPy, Pandas, Seaborn     |
+| **👥 Employee Performance Analysis** | HR-focused dashboard on retention, compensation & performance trends     | Python, Power BI, DAX              |
+| **🎓 Student Performance Analysis** | EDA on academic scores, attendance & influencing factors                 | Python, Jupyter, Visualizations    |
 
 ---
 
-## 🔧 Stack
+## 💻 Featured Frontend Projects
+
+| Project                    | Description                                              | Tech Stack                     |
+|----------------------------|----------------------------------------------------------|--------------------------------|
+| **🎬 Netflix India Clone** | Fully responsive landing page with modern UI            | HTML5, CSS3, Flexbox, Grid    |
+| **📸 Instagram Login Clone** | Accurate dark-theme login page recreation              | HTML5, CSS3                    |
+| **🌐 Personal Portfolio**  | Clean website showcasing my projects                     | HTML5, CSS3                    |
+
+---
+
+## 🔧 Tech Stack
 
 **Data & Analytics**
+```text
+Python     →  Pandas • NumPy • Matplotlib • Seaborn
+SQL        →  Joins • CTEs • Window Functions
+BI Tools   →  Power BI • DAX • KPI Dashboards
+Others     →  Excel • Pivot Tables • Data Cleaning • EDA
+Core       →  HTML5 • CSS3
+Layout     →  Flexbox • Grid • Responsive Design
+Tools      →  Git • GitHub • Jupyter Notebook
 ```
-Python  →  Pandas · NumPy · Matplotlib · Seaborn
-SQL     →  Joins · CTEs · Window Functions · Subqueries
-BI      →  Power BI · DAX · KPI Dashboards · Slicers
-Other   →  Excel · Pivot Tables · EDA · Data Cleaning
-```
+## 🌟 Skills Progress
 
-**Frontend**
-```
-Core    →  HTML5 · CSS3
-Layout  →  Flexbox · CSS Grid · Responsive Design
-Backend →  Flask (basic) · Relational Databases
-Tools   →  GitHub · Jupyter Notebook
-```
+<p>
+  <img src="https://img.shields.io/badge/Python-85%25-blue?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Power%20BI-90%25-yellow?style=flat-square&logo=powerbi" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-80%25-orange?style=flat-square&logo=mysql" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML%2FCSS-88%25-red?style=flat-square&logo=html5" alt="HTML/CSS">
+</p>
 
 ---
 
-## 🧠 Currently
+## 🧠 Currently Working On
 
-- Strengthening **data storytelling** and dashboard design for non-technical audiences
-- Deepening **layout systems** and CSS architecture
-- Building toward my first real-world data or frontend role
-
-**Open to:** internships · junior roles · collaborative projects
+- Advanced Data Storytelling & Dashboard UX
+- Modern CSS Architecture & Animations
+- Building Full End-to-End Data + Frontend Projects
+- Preparing for Data Analyst / Frontend Developer Roles & Internships
 
 ---
 
-<div align="center">
+## 🤝 Open To
 
-`// I prefer logic over hype, clarity over complexity, and outcomes over opinions.`
+- Internships
+- Junior Roles
+- Collaborations
+- Open Source Contributions
 
-</div>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi-2408&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manasi-2408&theme=radical" alt="GitHub Profile Summary">
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/manasi-bhutra">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:manasibhutra24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
+
+## 💡 Philosophy
+
+> **Logic over hype. Clarity over complexity. Outcomes over opinions.**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" alt="Footer">
+</p>
