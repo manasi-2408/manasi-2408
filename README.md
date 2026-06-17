@@ -82,7 +82,7 @@ Tools      →  Git • GitHub • Jupyter Notebook
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manasi-2408&show_icons=true&theme=radical&hide_border=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi-2408&theme=radical&hide_border=true" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi-2408&theme=radical&hide_border=true&v=2" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
