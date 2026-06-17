@@ -64,8 +64,7 @@ Tools      →  Git • GitHub • Jupyter Notebook
 ## 🧠 Currently Working On
 
 - Advanced Data Storytelling & Dashboard UX
-- Modern CSS Architecture & Animations
-- Building Full End-to-End Data + Frontend Projects
+- Building Full End-to-End Data Projects
 - Preparing for Data Analyst / Frontend Developer Roles & Internships
 
 ---
@@ -82,11 +81,12 @@ Tools      →  Git • GitHub • Jupyter Notebook
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi-2408&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasi-2408&show_icons=true&theme=radical&hide_border=true" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi-2408&theme=radical&hide_border=true" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manasi-2408&theme=radical" alt="GitHub Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manasi-2408&theme=radical" width="100%">
 </p>
 
 ---
