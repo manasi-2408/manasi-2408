@@ -24,7 +24,7 @@
 | **🔥 Developer Burnout Analysis**| Burnout signals from survey data — hours, satisfaction & recovery patterns   | Python, Seaborn, Matplotlib        |
 | **📱 Smartphone Market Analysis**| Specs, pricing bands & brand positioning across models                      | Python, NumPy, Pandas, Seaborn     |
 | **👥 Employee Performance Analysis** | HR-focused dashboard on retention, compensation & performance trends     | Python, Power BI, DAX              |
-| **🎓 Student Performance Analysis** | EDA on academic scores, attendance & influencing factors                 | Python, Jupyter, Visualizations    |
+| **🎓 Clothing Analysis** | Based on what customers will buy together                 | Python, Jupyter, Visualizations    |
 
 ---
 
